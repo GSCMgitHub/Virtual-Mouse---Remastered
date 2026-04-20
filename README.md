@@ -6,3 +6,5 @@ Una versión remasterizada del proyecto de mouse virtual sacada de https://githu
 
 This project is more of a training of my skills rather than a fully fleshed out project.
 Este proyecto es más un entrenamiento de mis habilidades que un proyecto hecho a full detalle.
+
+Python used: 3.14.3 (.venv)
